@@ -10,7 +10,7 @@ Este é um projeto simples desenvolvido em **React Native** utilizando o **Expo*
 O aplicativo é composto por três telas principais navegáveis por uma barra inferior customizada:
 
 * **Tela 1 (Início):** Exibe uma imagem central com controle de dimensões e texto de boas-vindas.
-* **Tela 2 (Lista de Cards):** Apresenta uma barra superior com ícones e uma lista de cards em um `ScrollView`, permitindo a navegação entre os itens.
+* **Tela 2 (Lista de Cards):** Apresenta uma barra superior com ícones e uma lista de cards.
 * **Tela 3 (Formulário):** Contém campos de entrada de texto e números. Inclui a funcionalidade de fechar o teclado ao tocar fora dos campos ou ao submeter o formulário.
 
 ## Tecnologias Utilizadas
