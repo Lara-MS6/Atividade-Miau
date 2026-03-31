@@ -26,7 +26,7 @@ O aplicativo é composto por três telas principais navegáveis por uma barra in
 Certifique-se de ter o [Node.js](https://nodejs.org/) instalado em sua máquina e o aplicativo **Expo Go** no seu celular (para testes físicos).
 
 ### Passo a passo
-
+```
 1. Clone este repositório:
    ```bash
    git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
