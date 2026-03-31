@@ -51,4 +51,3 @@ Certifique-se de ter o [Node.js](https://nodejs.org/) instalado em sua máquina 
    * Pressione `w` para abrir no navegador web.
    * Pressione `a` para rodar no emulador Android.
    * Escaneie o QR Code com o aplicativo **Expo Go** no seu celular físico.
-```
