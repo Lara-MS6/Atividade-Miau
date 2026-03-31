@@ -34,7 +34,7 @@ Certifique-se de ter o [Node.js](https://nodejs.org/) instalado em sua máquina 
 
 2. Acesse a pasta do projeto:
    ```bash
-   cd nome-do-repositorio
+   cd Atividade-Miau
    ```
 
 3. Instale as dependências:
