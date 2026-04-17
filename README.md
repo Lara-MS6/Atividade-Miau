@@ -1,4 +1,4 @@
-Aqui está o `README.md` com um formato mais limpo e sem emojis:
+
 
 ```markdown
 # Atividade Miau 
